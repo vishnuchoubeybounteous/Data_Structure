@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0044-wildcard-matching) |
+| [0799-champagne-tower](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0799-champagne-tower) |
 ## Greedy
 |  |
 | ------- |
