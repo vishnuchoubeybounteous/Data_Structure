@@ -18,4 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0044-wildcard-matching) |
+| [0231-power-of-two](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0231-power-of-two) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
