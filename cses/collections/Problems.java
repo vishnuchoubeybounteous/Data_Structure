@@ -86,19 +86,19 @@ public class Problems {
     //     System.out.println(l);
     // }
 
-    public static void main(String args[]){
-        List<Integer> l=Arrays.asList(1,2,3,2,4,1);
-        Map<Integer,Integer> map=new HashMap<>();
-        for(int i:l){
-            map.put(i,map.getOrDefault(i,0)+1);
-        }
-        for(Map.Entry<Integer,Integer> m:map.entrySet()){
-            if(m.getValue()>1){
-                System.out.println(m.getKey());
-            }
-        }
-
-    }
+    //Question 10
+    // public static void main(String args[]){
+    //     List<Integer> l=Arrays.asList(1,2,3,2,4,1);
+    //     Map<Integer,Integer> map=new HashMap<>();
+    //     for(int i:l){
+    //         map.put(i,map.getOrDefault(i,0)+1);
+    //     }
+    //     for(Map.Entry<Integer,Integer> m:map.entrySet()){
+    //         if(m.getValue()>1){
+    //             System.out.println(m.getKey());
+    //         }
+    //     }
+    // }
 
 
 }
