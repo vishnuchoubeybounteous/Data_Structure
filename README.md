@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
