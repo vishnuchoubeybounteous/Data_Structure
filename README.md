@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0231-power-of-two) |
 | [0693-binary-number-with-alternating-bits](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0868-binary-gap) |
 ## Hash Table
 |  |
 | ------- |
