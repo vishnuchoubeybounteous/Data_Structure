@@ -7,7 +7,6 @@ class Solution {
         while(n>0){
             count+=n&1;
             n=n>>1;
-            System.out.println(n);
         }
         list.add(new int[]{i,count});
       } 
@@ -19,7 +18,6 @@ class Solution {
        });
        
       for(int[] ar:list){
-        System.out.println(ar[0]+" "+ar[1]);
         ans[i++]=ar[0];
       }
       return ans;
