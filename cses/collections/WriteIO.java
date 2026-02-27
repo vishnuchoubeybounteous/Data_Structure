@@ -7,11 +7,11 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.util.concurrent.Callable;
 
 public class WriteIO {
     public static void main(String[] args) {
         // Path path = Path.of("data.txt");
-
         // try {
         //     if (Files.exists(path)) {
         //         throw new IOException("File already exists!");
@@ -45,7 +45,6 @@ public class WriteIO {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
         System.out.println("Number of occurrences of 'Java': " + count);
     }
 }

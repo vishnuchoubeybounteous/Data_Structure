@@ -1,75 +1,70 @@
 package cses.collections;
-
-import java.util.Arrays;
-
 public class MyHashSet {
-    private int[] arr;
-    private int size;     
-    private int capacity;  
+    class Node {
+    int value;
+    Node next;
+
+    Node(int value) {
+        this.value = value;
+        this.next = null;
+    }
+    }
+    private static final int SIZE = 10;
+    private Node[] buckets;
 
     public MyHashSet() {
-        capacity = 10;   
-        arr = new int[capacity];
-        size = 0;
+        buckets = new Node[SIZE];
     }
-
-  
-    private boolean contains(int key) {
-        for (int i = 0; i < size; i++) {
-            if (arr[i] == key) return true;
+    private int getIndex(int key) {
+        return Math.abs(key) % SIZE;
+    }
+    public void add(int key) {
+        int index = getIndex(key);
+        Node head = buckets[index];
+        if (head == null) {
+            buckets[index] = new Node(key);
+            return;
         }
-        return false;
+        Node current = head;
+        while (true) {
+            if (current.value==key) {
+                return; 
+            }
+            if (current.next == null) {
+                break;
+            }
+            current = current.next;
+        }
+        current.next = new Node(key);
     }
 
  
-    public void add(int key) {
-        if (contains(key)) return;
-
-        if (size == capacity) {
-            capacity *= 2;
-            arr = Arrays.copyOf(arr, capacity);
-        }
-        arr[size] = key;
-        size++;
-    }
-
     public void remove(int key) {
-        for (int i=0;i<size;i++) {
-            if (arr[i]==key) {
-                for (int j=i; j < size - 1; j++) {
-                    arr[j] = arr[j + 1];
-                }
-                size--;
+        int index = getIndex(key);
+        Node head = buckets[index];
+        if (head == null) return;
+        if (head.value == key) {
+            buckets[index] = head.next;
+            return;
+        }
+        Node prev = head;
+        Node curr = head.next;
+        while (curr != null) {
+            if (curr.value == key) {
+                prev.next = curr.next;
                 return;
             }
+            prev = curr;
+            curr = curr.next;
         }
     }
-
-    public void print() {
-        for (int i = 0; i < size; i++) {
-            System.out.print(arr[i] + " ");
-        }
-        System.out.println();
-    }
-
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         MyHashSet set = new MyHashSet();
-
-        set.add(5);
         set.add(10);
-        set.add(15);
-        set.print();
-
-        set.add(10); 
-        set.print(); 
-
+        set.add(20);
+        set.add(30);
+        set.add(20); 
         set.remove(10);
-        set.print(); 
-
-        for (int i = 1; i <= 15; i++) {
-            set.add(i);
-        }
-        set.print();
+        set.remove(100); 
     }
 }
-
