@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0044-wildcard-matching) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0724-find-pivot-index) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
