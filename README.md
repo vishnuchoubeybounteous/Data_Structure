@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0044-wildcard-matching) |
 | [0799-champagne-tower](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0799-champagne-tower) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0209-minimum-size-subarray-sum) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Prefix Sum
 |  |
 | ------- |
