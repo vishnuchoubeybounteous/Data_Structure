@@ -33,7 +33,7 @@ class Solution {
 
             }
             fresh-=q.size();
-            System.out.println(q.size());
+           
             min++;
             if(fresh==0)return min;
             
