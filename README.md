@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0198-house-robber) |
 | [0799-champagne-tower](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0799-champagne-tower) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0238-product-of-array-except-self) |
