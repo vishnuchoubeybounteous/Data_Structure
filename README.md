@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0070-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0799-champagne-tower) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0523-continuous-subarray-sum) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0042-trapping-rain-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
