@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0044-wildcard-matching) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0696-count-binary-substrings) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Tree
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Prefix Sum
 |  |
