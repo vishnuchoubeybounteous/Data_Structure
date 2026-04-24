@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0930-binary-subarrays-with-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0930-binary-subarrays-with-sum) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Tree
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0733-flood-fill) |
+| [0930-binary-subarrays-with-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1004-max-consecutive-ones-iii) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Prefix Sum
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
