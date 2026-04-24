@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0044-wildcard-matching) |
+| [0424-longest-repeating-character-replacement](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0696-count-binary-substrings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0041-first-missing-positive) |
+| [0424-longest-repeating-character-replacement](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0560-subarray-sum-equals-k) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Prefix Sum
