@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -119,10 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Prefix Sum
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
