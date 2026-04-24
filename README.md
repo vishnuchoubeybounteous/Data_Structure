@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0120-triangle) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0523-continuous-subarray-sum) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
