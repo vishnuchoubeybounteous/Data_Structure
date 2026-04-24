@@ -8,7 +8,7 @@ class Solution {
             if(nums[mid]>=nums[low]){
                 min=Math.min(min,nums[low]);
                 low=mid+1;
-                System.out.println(mid);
+               
             }
             else{
                  min=Math.min(min,nums[mid]);
