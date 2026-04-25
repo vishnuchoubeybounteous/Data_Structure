@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0435-non-overlapping-intervals) |
 | [0523-continuous-subarray-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0525-contiguous-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0696-count-binary-substrings) |
 ## Rolling Hash
 |  |
