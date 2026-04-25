@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1248-count-number-of-nice-subarrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2573-find-the-string-with-lcp](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
