@@ -1,15 +1,21 @@
 class Solution {
     public boolean checkSubarraySum(int[] nums, int k) {
-        Set<Integer> modSet=new HashSet();
-        int currSum = 0, prevSum=0; 
-        for(int n : nums) {
-            currSum += n;
-            if(modSet.contains(currSum%k)) {
+        Map<Integer,Integer> map=new HashMap<>();
+        int sum=0;
+        int zero=0;
+        map.put(0,-1);
+
+        for(int i=0;i<nums.length;i++){
+         
+            sum+=nums[i];
+            int rem=sum%k;
+           
+            if(map.containsKey(rem)){
+                if(i-map.get(rem)>=2)
                 return true;
             }
-            currSum %=k;
-            modSet.add(prevSum);
-            prevSum = currSum;
+            else
+            map.put(rem,i);
         }
         return false;
     }
