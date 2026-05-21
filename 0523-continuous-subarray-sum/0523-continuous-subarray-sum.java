@@ -14,8 +14,8 @@ class Solution {
                 if(i-map.get(rem)>=2)
                 return true;
             }
-            else
-            map.put(rem,i);
+          
+            map.putIfAbsent(rem,i);
         }
         return false;
     }
