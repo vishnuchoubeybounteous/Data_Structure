@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0678-valid-parenthesis-string) |
 | [0799-champagne-tower](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0799-champagne-tower) |
 | [0931-minimum-falling-path-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0931-minimum-falling-path-sum) |
+| [1504-count-submatrices-with-all-ones](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1504-count-submatrices-with-all-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2573-find-the-string-with-lcp) |
 ## Greedy
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1248-count-number-of-nice-subarrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1504-count-submatrices-with-all-ones](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1504-count-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0994-rotting-oranges) |
+| [1504-count-submatrices-with-all-ones](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1504-count-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2573-find-the-string-with-lcp](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2573-find-the-string-with-lcp) |
@@ -237,10 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0678-valid-parenthesis-string) |
+| [1504-count-submatrices-with-all-ones](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1504-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0042-trapping-rain-water) |
+| [1504-count-submatrices-with-all-ones](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1504-count-submatrices-with-all-ones) |
 ## Memoization
 |  |
 | ------- |
