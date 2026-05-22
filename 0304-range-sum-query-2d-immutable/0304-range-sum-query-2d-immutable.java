@@ -27,7 +27,7 @@ class NumMatrix {
         else if(col1==0){
             return prefix[row2][col2]-prefix[row1-1][col2];
         }
-            return prefix[row2][col2]-((prefix[row1-1][col2]+prefix[row2][col1-1])-prefix[row1-1][col1-1]);
+            return prefix[row2][col2]-prefix[row1-1][col2]-prefix[row2][col1-1]+prefix[row1-1][col1-1];
        
     }
 }
