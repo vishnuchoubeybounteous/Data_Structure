@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0041-first-missing-positive) |
+| [0146-lru-cache](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0525-contiguous-array) |
@@ -262,6 +263,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0304-range-sum-query-2d-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
