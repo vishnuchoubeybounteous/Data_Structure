@@ -55,32 +55,28 @@ class LRUCache {
    }
     
     public void put(int key, int value) {
+       Node node=map.get(key);
+       if(node==null){
+          if(size>=capacity){
+            Node t1=tail.prev;
+            delete(t1);
+            map.remove(t1.key);
+            size--;
+          }
+          Node temp=new Node(key,value);
+          insert(temp);
+          map.put(key,temp);
+          size++; 
+       }
+       else{
+            delete(node);
+            node.val=value;
+            
+            insert(node);
+       }
 
-    Node node = map.get(key);
-
-    if(node != null){
-        node.val = value;
-        delete(node);
-        insert(node);
-        return;
+    
     }
-
-    if(size == capacity){
-        Node lru = tail.prev;
-
-        delete(lru);
-        map.remove(lru.key);
-
-        size--;
-    }
-
-    Node temp = new Node(key,value);
-
-    insert(temp);
-    map.put(key,temp);
-
-    size++;
-}
 }
 
 /**
