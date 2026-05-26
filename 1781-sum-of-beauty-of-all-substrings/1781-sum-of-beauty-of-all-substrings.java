@@ -2,13 +2,11 @@ class Solution {
     public int beautySum(String s) {
         int sum=0;
         for(int i=0;i<s.length();i++){
-            for(int j=i;j<s.length();j++){
               int[] hash=new int[26];
+            for(int j=i;j<s.length();j++){
+              hash[s.charAt(j)-'a']++;
               int max=0;
               int min=Integer.MAX_VALUE;
-              for(int k=i;k<=j;k++){
-                hash[s.charAt(k)-'a']++;
-              }
               for(int temp:hash){
                 if(temp==0)continue;
                 min=Math.min(min,temp);
