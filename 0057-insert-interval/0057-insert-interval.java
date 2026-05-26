@@ -1,34 +1,28 @@
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
-        List<int[]> list1=new ArrayList<>();
-        List<int[]> list2=new ArrayList<>();
+        Arrays.sort(intervals,(a,b)->a[0]-b[0]);
+        List<int[]> list=new ArrayList<>();
         int start=newInterval[0];
         int end=newInterval[1];
-        int min=start;
-        int max=end;
-        for(int i=0;i<intervals.length;i++){
-            int a=intervals[i][0];
-            int b=intervals[i][1];
-            if(b<start){
-                list1.add(intervals[i]);
-            }
-            else if(end<a){
-                list2.add(intervals[i]);
-            }
-            else{
-                min=Math.min(a,min);
-                max=Math.max(b,max);
-            }
+        int i=0;
+        while(i<intervals.length&&intervals[i][1]<start){
+            list.add(intervals[i]);
+            i++;
         }
-        list1.add(new int[]{min,max});
-        int[][] ans=new int[list1.size()+list2.size()][2];
-        int count=0;
-        for(int[] arr:list1){
-            ans[count++]=arr;
+        while(i<intervals.length&&end>=intervals[i][0]){
+            start=Math.min(start,intervals[i][0]);
+            end=Math.max(end,intervals[i][1]);
+            i++;
         }
-        for(int[] arr:list2){
-            ans[count++]=arr;
+        list.add(new int[]{start,end});
+        while(i<intervals.length){
+            list.add(intervals[i]);
+            i++;
         }
-        return ans;
+        int[][] ans=new int[list.size()][2];
+       for(int j=0;j<list.size();j++){
+        ans[j]=list.get(j);
+       }
+       return ans;
     }
 }
