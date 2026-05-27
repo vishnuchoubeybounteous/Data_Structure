@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2129-capitalize-the-title](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2129-capitalize-the-title) |
 | [2573-find-the-string-with-lcp](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2573-find-the-string-with-lcp) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Dynamic Programming
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Tree
 |  |
