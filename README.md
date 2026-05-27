@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2129-capitalize-the-title](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2129-capitalize-the-title) |
 | [2573-find-the-string-with-lcp](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2573-find-the-string-with-lcp) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Dynamic Programming
