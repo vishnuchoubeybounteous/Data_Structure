@@ -9,16 +9,11 @@ class Solution {
       }
       else{
           char c1=word.charAt(1);
-          if(Character.isUpperCase(c1)){
+          boolean upper=Character.isUpperCase(c1);
             for(int i=1;i<word.length();i++){
-                if(Character.isLowerCase(word.charAt(i)))return false;
+                if(upper&&Character.isLowerCase(word.charAt(i)))return false;
+                else if(!upper&&Character.isUpperCase(word.charAt(i)))return false;
             }
-          }
-          else{
-            for(int i=1;i<word.length();i++){
-                if(Character.isUpperCase(word.charAt(i)))return false;
-            }
-          }
       }
       return true;
     }
