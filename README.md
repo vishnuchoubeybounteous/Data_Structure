@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2129-capitalize-the-title](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2129-capitalize-the-title) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Matrix
 |  |
