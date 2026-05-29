@@ -8,7 +8,7 @@ class Solution {
                 t1+=temp%10;
                 temp/=10;
             }
-            System.out.println(t1);
+          
             min=Math.min(min,t1);
         }
         return min;
