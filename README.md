@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1248-count-number-of-nice-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Bit Manipulation
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Matrix
 |  |
