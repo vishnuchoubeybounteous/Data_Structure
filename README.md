@@ -110,12 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0547-number-of-provinces](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0733-flood-fill) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0100-same-tree) |
 | [0547-number-of-provinces](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
