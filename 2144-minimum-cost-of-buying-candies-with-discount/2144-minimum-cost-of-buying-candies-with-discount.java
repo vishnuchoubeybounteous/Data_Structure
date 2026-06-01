@@ -4,7 +4,7 @@ class Solution {
         for(int i:cost){
             pq.offer(i);
         }
-        System.out.println(pq);
+       
         int sum=0;
         while(pq.size()>=3){
          sum+=pq.poll();
