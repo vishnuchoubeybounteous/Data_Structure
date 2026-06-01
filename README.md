@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0860-lemonade-change) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2573-find-the-string-with-lcp) |
 ## Recursion
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2573-find-the-string-with-lcp](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0435-non-overlapping-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Counting
 |  |
 | ------- |
