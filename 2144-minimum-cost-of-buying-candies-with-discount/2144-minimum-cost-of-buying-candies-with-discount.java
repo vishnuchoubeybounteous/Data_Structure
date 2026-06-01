@@ -4,15 +4,11 @@ class Solution {
         for(int i:cost){
             pq.offer(i);
         }
-       
         int sum=0;
-        while(pq.size()>=3){
-         sum+=pq.poll();
-         sum+=pq.poll();
-         pq.poll();
-        }
         while(!pq.isEmpty()){
             sum+=pq.poll();
+            sum+=pq.isEmpty()?0:pq.poll();
+            int a=pq.isEmpty()?0:pq.poll();
         }
         return sum;
 
