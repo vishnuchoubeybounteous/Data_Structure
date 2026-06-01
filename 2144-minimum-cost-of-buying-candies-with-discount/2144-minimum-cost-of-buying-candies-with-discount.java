@@ -8,7 +8,7 @@ class Solution {
         while(!pq.isEmpty()){
             sum+=pq.poll();
             sum+=pq.isEmpty()?0:pq.poll();
-            int a=pq.isEmpty()?0:pq.poll();
+            if(!pq.isEmpty())pq.poll();
         }
         return sum;
 
