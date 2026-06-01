@@ -1,20 +1,20 @@
 class Solution {
     public int minimumCost(int[] cost) {
-        Arrays.sort(cost);
-        int i=cost.length-3;
+        PriorityQueue<Integer> pq=new PriorityQueue<>(Comparator.reverseOrder());
+        for(int i:cost){
+            pq.offer(i);
+        }
+        System.out.println(pq);
         int sum=0;
-        while(i>=0){
-          sum+=cost[i+2];
-          sum+=cost[i+1];
-          i-=3;
+        while(pq.size()>=3){
+         sum+=pq.poll();
+         sum+=pq.poll();
+         pq.poll();
         }
-        if(i==-1){
-            sum+=cost[0];
-            sum+=cost[1];
-        }
-        else if(i==-2){
-            sum+=cost[0];
+        while(!pq.isEmpty()){
+            sum+=pq.poll();
         }
         return sum;
+
     }
 }
