@@ -9,52 +9,64 @@
  */
 class Solution {
     public List<Integer> distanceK(TreeNode root, TreeNode target, int k) {
-      
-        Map<TreeNode,Boolean> map=new HashMap<>();
+        List<Integer> ans=new ArrayList<>();
         Map<TreeNode,TreeNode> par=new HashMap<>();
+        Map<TreeNode,Boolean> visited=new HashMap<>();
         Queue<TreeNode> q=new LinkedList<>();
         q.offer(root);
         par.put(root,null);
+        visited.put(root,null);
         while(!q.isEmpty()){
-           TreeNode temp=q.poll();
-           if(temp.left!=null){
-            par.put(temp.left,temp);
-            q.offer(temp.left);
-           }
-           if(temp.right!=null){
-            par.put(temp.right,temp);
-            q.offer(temp.right);
-           }
+            TreeNode temp=q.poll();
+            if(temp.left!=null){
+               par.put(temp.left,temp);
+               visited.put(temp.left,null);
+               q.offer(temp.left);
+            }
+            if(temp.right!=null){
+                par.put(temp.right,temp);
+                visited.put(temp.right,null);
+                q.offer(temp.right);
+            }
+        }
+
+        if(k==0){
+            ans.add(target.val);
+            return ans;
         }
         q.offer(target);
         int count=0;
-        map.put(target,true);
+        visited.put(target,true);
         while(!q.isEmpty()){
-          
-          int size=q.size();
-          for(int i=0;i<size;i++){
-            TreeNode temp=q.poll();
-          if(temp.left!=null&&map.get(temp.left)==null){
-            q.offer(temp.left);
-            map.put(temp.left,true);
-          }
-          if(temp.right!=null&&map.get(temp.right)==null){
-            q.offer(temp.right);
-            map.put(temp.right,true);
-          }
-          if(par.get(temp)!=null&&map.get(par.get(temp))==null){
-            q.offer(par.get(temp));
-            map.put(par.get(temp),true);
-          }
-          }
-          count++;
-          if(count==k)break;
+            int size=q.size();
+            List<Integer> list=new ArrayList<>();
+            count++;
+            for(int i=0;i<size;i++){
+                TreeNode temp=q.poll();
+                if(temp.left!=null&&visited.get(temp.left)==null){
+                    list.add(temp.left.val);
+                    q.offer(temp.left);
+                    visited.put(temp.left,true);
+                }
+                if(temp.right!=null&&visited.get(temp.right)==null){
+                    list.add(temp.right.val);
+                    q.offer(temp.right);
+                    visited.put(temp.right,true);
+                }
+                if(par.get(temp)!=null&&visited.get(par.get(temp))==null){
+                    list.add(par.get(temp).val);
+                    q.offer(par.get(temp));
+                    visited.put(par.get(temp),true);
+                }
+              
+                
+            }
+              System.out.println(list);
+            if(k==count){
+                ans=list;
+                break;
+            }
         }
-        List<Integer> ans=new ArrayList<>();
-        while(!q.isEmpty()){
-            ans.add(q.poll().val);
-        }
-        if(k==0)ans.add(target.val);
         return ans;
     }
 }
