@@ -61,7 +61,7 @@ class Solution {
               
                 
             }
-              System.out.println(list);
+            
             if(k==count){
                 ans=list;
                 break;
