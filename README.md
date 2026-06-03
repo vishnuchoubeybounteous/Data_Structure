@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0231-power-of-two) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
 |  |
