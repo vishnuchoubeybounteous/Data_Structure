@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1504-count-submatrices-with-all-ones](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1504-count-submatrices-with-all-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2573-find-the-string-with-lcp) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String Matching
 |  |
 | ------- |
