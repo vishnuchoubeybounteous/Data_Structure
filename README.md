@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Array
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2573-find-the-string-with-lcp](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
