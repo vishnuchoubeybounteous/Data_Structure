@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0044-wildcard-matching) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0424-longest-repeating-character-replacement) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0231-power-of-two) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0041-first-missing-positive) |
 | [0146-lru-cache](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0424-longest-repeating-character-replacement) |
