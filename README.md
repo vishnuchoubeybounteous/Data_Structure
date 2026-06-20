@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0044-wildcard-matching) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0696-count-binary-substrings) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0041-first-missing-positive) |
 | [0146-lru-cache](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0560-subarray-sum-equals-k) |
@@ -260,11 +262,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Simulation
@@ -356,9 +360,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0743-network-delay-time) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0743-network-delay-time) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
