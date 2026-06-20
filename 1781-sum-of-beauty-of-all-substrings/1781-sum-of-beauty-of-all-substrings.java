@@ -1,20 +1,22 @@
 class Solution {
     public int beautySum(String s) {
-        int sum=0;
+        int count=0;
         for(int i=0;i<s.length();i++){
-              int[] hash=new int[26];
+            int[] hash=new int[26];
             for(int j=i;j<s.length();j++){
-              hash[s.charAt(j)-'a']++;
-              int max=0;
-              int min=Integer.MAX_VALUE;
-              for(int temp:hash){
-                if(temp==0)continue;
-                min=Math.min(min,temp);
-                max=Math.max(max,temp);
-              }
-              sum+=(max-min);
+                char ch=s.charAt(j);
+                hash[ch-'a']++;
+                int min=Integer.MAX_VALUE;
+                int max=0;
+                for(int k=0;k<26;k++){
+                    if(hash[k]!=0){
+                        min=Math.min(min,hash[k]);
+                        max=Math.max(max,hash[k]);
+                    }
+                }
+                count+=max-min;
             }
         }
-        return sum;
+        return count;
     }
 }
