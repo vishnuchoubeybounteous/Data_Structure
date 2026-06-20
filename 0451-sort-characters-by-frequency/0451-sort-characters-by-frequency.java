@@ -6,13 +6,13 @@ class Solution {
         }
         List<Map.Entry<Character,Integer>> l=new ArrayList<>(map.entrySet());
         Collections.sort(l,(a,b)->b.getValue()-a.getValue());
-        String str="";
+        StringBuilder sb=new StringBuilder();
         for(Map.Entry<Character,Integer> m1:l){
             int a=m1.getValue();
             for(int i=0;i<a;i++){
-                str+=m1.getKey();
+                sb.append(m1.getKey());
             }
         }
-        return str;
+        return sb.toString();
     }
 }
