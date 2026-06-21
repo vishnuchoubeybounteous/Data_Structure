@@ -1,24 +1,23 @@
 class Solution {
     public boolean checkValidString(String s) {
-       int star=0;
-       int count=0;
-       for(int i=0;i<s.length();i++){
-        char ch=s.charAt(i);
-        if(ch=='('){
-            count++;
+        int a=0;
+        int b=0;
+        for(int i=0;i<s.length();i++){
+            if(s.charAt(i)=='('){
+                a++;
+                b++;
+            }
+            else if(s.charAt(i)==')'){
+                a--;
+                b--;
+            }
+            else{
+                a++;
+                b--;
+            }
+            if(a<0)return false;
+            if(b<0)b=0;
         }
-        else if(ch==')'){
-            count--;
-        }
-        else if(ch=='*')star++;
-        if(count<0&&star==-count){
-            count=0;
-            star=0;
-        }
-       } 
-       System.out.println(count+" "+star);
-       if((Math.abs(count)<=star)||count==0)return true;
- return false;
-        
+        return b==0;
     }
 }
