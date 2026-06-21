@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0743-network-delay-time) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0743-network-delay-time) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0283-move-zeroes) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0931-minimum-falling-path-sum) |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0547-number-of-provinces) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2573-find-the-string-with-lcp](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/2573-find-the-string-with-lcp) |
