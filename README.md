@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0070-climbing-stairs) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0064-minimum-path-sum) |
@@ -380,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0451-sort-characters-by-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vishnuchoubeybounteous/Data_Structure/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
